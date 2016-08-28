@@ -21,3 +21,5 @@ urlpatterns = [
     url(r'', include('blog.urls')),
 
 ]
+
+
